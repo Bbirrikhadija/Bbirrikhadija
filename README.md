@@ -6,7 +6,7 @@
   <a href="mailto:khadijabbirri20@gmail.com">
      <img  src="https://img.shields.io/badge/email-04001E?style=for-the-badge&logo=gmail&logoColor=01EFDD" alt="email">
   <a/>&nbsp;
-  <a href="www.linkedin.com/in/khadija-bbirri-aa5a33235">
+  <a href="https://www.linkedin.com/in/khadija-bbirri-aa5a33235/">
      <img  src="https://img.shields.io/badge/linkedin-04001E?style=for-the-badge&logo=linkedin&logoColor=01EFDD" alt="email">
   <a/>&nbsp;
   <a href="https://twitter.com/BbirriKhadija">
