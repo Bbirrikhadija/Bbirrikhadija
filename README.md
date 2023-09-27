@@ -7,16 +7,13 @@ Welcome to my GitHub profile. Here's a bit about me:
 - 📫 You can contact me through the following channels:
 <p align="center">
   <a href="mailto:khadijabbirri20@gmail.com">
-    <img src="https://img.shields.io/badge/email-04001E?style=for-the-badge&logo=gmail&logoColor=01EFDD" alt="email">
-    Email
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/email-007BFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="email">
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/khadija-bbirri-aa5a33235/">
-    <img src="https://img.shields.io/badge/linkedin-04001E?style=for-the-badge&logo=linkedin&logoColor=01EFDD" alt="linkedin">
-    LinkedIn
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-007BFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="linkedin">
+  </a>&nbsp;
   <a href="https://twitter.com/BbirriKhadija">
-    <img src="https://img.shields.io/badge/twitter-04001E?style=for-the-badge&logo=twitter&logoColor=01EFDD" alt="twitter">
-    Twitter
+    <img src="https://img.shields.io/badge/twitter-007BFF?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="twitter">
   </a>
 </p>
 
