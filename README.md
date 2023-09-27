@@ -5,7 +5,9 @@ Welcome to my GitHub profile. Here's a bit about me:
 - 👀 I'm passionate about programming and software development.
 - 🌱 I'm always eager to learn and work on exciting projects. My journey in software development is a constant exploration, and I'm passionate about taking on new challenges and expanding my skills.
 
-**Motivation: "In every line of code, there's an opportunity to build something amazing. Keep coding, keep creating, and embrace the journey of continuous improvement."**
+<blockquote style="font-family: 'Arial', sans-serif; color: #007BFF;">
+  <p style="font-style: italic;">"In every line of code, there's an opportunity to build something amazing. ✨ Keep coding, keep creating, and embrace the journey of continuous improvement. 🚀"</p>
+</blockquote>
   
 - 📫 You can contact me through the following channels:
 <p align="center">
