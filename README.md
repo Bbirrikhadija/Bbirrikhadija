@@ -8,14 +8,18 @@ Welcome to my GitHub profile. Here's a bit about me:
 <p align="center">
   <a href="mailto:khadijabbirri20@gmail.com">
     <img src="https://img.shields.io/badge/email-04001E?style=for-the-badge&logo=gmail&logoColor=01EFDD" alt="email">
-  </a>&nbsp;
+    Email
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/khadija-bbirri-aa5a33235/">
     <img src="https://img.shields.io/badge/linkedin-04001E?style=for-the-badge&logo=linkedin&logoColor=01EFDD" alt="linkedin">
-  </a>&nbsp;
+    LinkedIn
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/BbirriKhadija">
     <img src="https://img.shields.io/badge/twitter-04001E?style=for-the-badge&logo=twitter&logoColor=01EFDD" alt="twitter">
+    Twitter
   </a>
 </p>
+
 
 
 <!---
